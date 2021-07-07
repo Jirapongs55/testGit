@@ -5,6 +5,7 @@
 </head>
 <body>
 	<img src="codeOrgCertificate.jpg"/>
-	<h1>Welcome to myWebSite</h1>
+	<h2>Welcome to myWebSite</h2>
+	<b>UI Desigin</b>
 </body>
 
