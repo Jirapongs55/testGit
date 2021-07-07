@@ -4,6 +4,7 @@
 	<title>Test fot GITHUB MINI COURSE</title>
 </head>
 <body>
+	<img src="codeOrgCertificate.jpg"/>
 	<h1>Welcome to myWebSite</h1>
 </body>
 
